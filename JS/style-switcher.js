@@ -1,9 +1,9 @@
 /**============== toggle style switcher ===================**/
 
-const styleSwitcherToggle = document.querySelector(".style-switcher-toggler");
-styleSwitcherToggle.addEventListener("click", ()=>{
-    document.querySelector(".style-switcher").classList.toggle("open");
-})
+// const styleSwitcherToggle = document.querySelector(".style-switcher-toggler");
+// styleSwitcherToggle.addEventListener("click", ()=>{
+//     document.querySelector(".style-switcher").classList.toggle("open");
+// })
 
 // ocultar style - switcher on scroll
 window.addEventListener("scroll", ()=>{
@@ -15,7 +15,7 @@ window.addEventListener("scroll", ()=>{
 
 
 /**============== theme colors ===================**/
-
+/*
 const alternateStyles = document.querySelectorAll(".alternate-style");
 function setActiveStyle(color){
     alternateStyles.forEach((style)=>{
@@ -27,6 +27,7 @@ function setActiveStyle(color){
         }
     })
 }
+*/
 
 /**============== theme light and dark mode ===================**/
 
