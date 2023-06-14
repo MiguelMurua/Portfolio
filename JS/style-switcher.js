@@ -15,7 +15,7 @@ window.addEventListener("scroll", ()=>{
 
 
 /**============== theme colors ===================**/
-/*
+
 const alternateStyles = document.querySelectorAll(".alternate-style");
 function setActiveStyle(color){
     alternateStyles.forEach((style)=>{
@@ -27,7 +27,7 @@ function setActiveStyle(color){
         }
     })
 }
-*/
+
 
 /**============== theme light and dark mode ===================**/
 
